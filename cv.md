@@ -39,3 +39,15 @@ function disemvowel(str) {
   return result;
 }
 ```
+## Experience
+### [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
+*  [audio-player](https://maksim-krasnoshchekov.github.io/audio-player/)
+## Courses
+### [Подготовительный курс «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
+### [sololearn](https://www.sololearn.com/)
+* [**JavaScript**](https://www.sololearn.com/certificates/CT-ZLI5JFNF)
+* [**HTML**](https://www.sololearn.com/certificates/CT-TD1RRJHV)
+* [**CSS**](https://www.sololearn.com/certificates/CT-RZUGJO36)
+
+## Languages
+B1 intermediate
